@@ -26,4 +26,24 @@ i have added screenshot of dashboad
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 📈 Key Insights
+- Identified top-performing categories and regions
+- Tracked shipment delays and fulfillment efficiency
+- Highlighted seasonal sales trends
+- Delivered actionable insights for business growth
+
+---
+
+## 🎯 Learning Outcomes
+- Advanced DAX logic for KPIs
+- Professional dashboard storytelling
+- GitHub portfolio presentation with screenshots and documentation
+
+---
+
+## 📬 Contact
+Created by **Talmis Siddiqui**  
+📧 [talmissiddiqui2030@gmail.com] 
