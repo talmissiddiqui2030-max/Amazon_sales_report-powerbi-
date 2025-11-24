@@ -16,12 +16,8 @@ This project demonstrates advanced data visualization, workflow optimization, an
 ---
 
 ## 📸 Dashboard Preview
-(Add your screenshots here)
+i have added screenshot of dashboad
 
-![Amazon Dashboard Overview](assets/amazon_dashboard_overview.png)
-![Amazon Dashboard KPIs](assets/amazon_dashboard_kpis.png)
-
----
 
 ## 🛠️ Tech Stack
 - **Power BI**: Dashboard design, DAX measures, interactive visuals
